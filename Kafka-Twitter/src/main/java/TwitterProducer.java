@@ -39,10 +39,10 @@ public class TwitterProducer {
 		
 		//twitter prop
 		final Producer<String,String> producer =new Producer<String,String>(config);
-		String consumerKey = new String("x2m1E1ZIxlrzWgsHl2NnH6Ivk");
-		String consumerSecret= new String("uIQGUfksYkollEKdG262FzXBSl82RdD3jqLcgqupVk2S8G7LIP");
-		String accessToken= new String("1134238220-fOyZOkRpCaZKFcke3H73CH1fEC3olfwzQRdJwN6");
-		String accessTokenSecret = new String("XuMqzZgo7qHhE5mCFSmiw2TMEC2UnhvcX6DywEk17OVCf");
+		String consumerKey = new String("key");
+		String consumerSecret= new String("key");
+		String accessToken= new String("1134238220-key");
+		String accessTokenSecret = new String("key");
 		
 		ConfigurationBuilder cfb= new ConfigurationBuilder();
 		
